@@ -1,0 +1,23 @@
+{
+  "name": "wechat-miniprogram",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {},
+  "license": "MIT",
+  "keywords": [
+    "electron",
+    "browser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fragement-contrib/WeChat-Miniprogram.git"
+  },
+  "author": "zxl20070701",
+  "dependencies": {},
+  "devDependencies": {
+    "miniprogram-api-typings": "^2.8.3-1"
+  },
+  "bugs": {
+    "url": "https://github.com/fragement-contrib/WeChat-Miniprogram/issues"
+  }
+}
