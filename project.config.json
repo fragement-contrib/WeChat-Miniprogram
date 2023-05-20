@@ -25,7 +25,7 @@
   },
   "condition": {},
   "srcMiniprogramRoot": "miniprogram/",
-  "appid": "wx0053178152d6bdfa",
+  "appid": "touristappid",
   "libVersion": "2.30.2",
   "editorSetting": {
     "tabIndent": "insertSpaces",

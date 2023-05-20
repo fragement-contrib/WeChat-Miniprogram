@@ -1,8 +1,43 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/canvas/canvas"
+    "pages/tabBar/home/index",
+    "pages/tabBar/api/index",
+    "pages/tabBar/component/index",
+    "pages/tabBar/example/index",
+    "pages/example/canvas/index"
   ],
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/tabBar/home/index",
+        "iconPath": "images/tabBar/home.png",
+        "selectedIconPath": "images/tabBar/home_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabBar/api/index",
+        "iconPath": "images/tabBar/api.png",
+        "selectedIconPath": "images/tabBar/api_active.png",
+        "text": "接口"
+      },
+      {
+        "pagePath": "pages/tabBar/component/index",
+        "iconPath": "images/tabBar/component.png",
+        "selectedIconPath": "images/tabBar/component_active.png",
+        "text": "组件"
+      },
+      {
+        "pagePath": "pages/tabBar/example/index",
+        "iconPath": "images/tabBar/example.png",
+        "selectedIconPath": "images/tabBar/example_active.png",
+        "text": "用例"
+      }
+    ]
+  },
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
